@@ -1,0 +1,6 @@
+C:\Users\sky\Documents\Visual Studio 2013\Projects\sandboxGit\sandboxGit\bin\Debug\sandboxGit.exe.config
+C:\Users\sky\Documents\Visual Studio 2013\Projects\sandboxGit\sandboxGit\bin\Debug\sandboxGit.exe
+C:\Users\sky\Documents\Visual Studio 2013\Projects\sandboxGit\sandboxGit\bin\Debug\sandboxGit.pdb
+C:\Users\sky\Documents\Visual Studio 2013\Projects\sandboxGit\sandboxGit\obj\Debug\sandboxGit.csprojResolveAssemblyReference.cache
+C:\Users\sky\Documents\Visual Studio 2013\Projects\sandboxGit\sandboxGit\obj\Debug\sandboxGit.exe
+C:\Users\sky\Documents\Visual Studio 2013\Projects\sandboxGit\sandboxGit\obj\Debug\sandboxGit.pdb
